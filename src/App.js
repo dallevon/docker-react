@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>Holy Moly</code>
+          <code>Holy Moly Feature branch</code>
         </p>
         <a
           className="App-link"
